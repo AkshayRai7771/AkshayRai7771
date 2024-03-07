@@ -27,7 +27,7 @@
 ###
 <br clear="both">
 
-<h3 align="center"> 🎯 Skill Set</h3>
+<h3 align="left"> 🎯 Skill Set</h3>
 
 ###
 
