@@ -1,22 +1,18 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkshayRai7771.AkshayRai7771&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h4 align="center">🧑‍💻  I'm Akshay Rai, a dedicated Software Engineer or Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends and as a website developer, always striving to exceed client expectations.</h4>
 
 ###
 
-<p align="left">I'm Akshay Rai, a dedicated Software Engineer or Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends and as a website developer, always striving to exceed client expectations.<br>- 📚 I'm currently learning Full stack <br>- ⚡ In my free time I spend time with my friends and talk to my family<br>- 👯 I’m looking to collaborate on Web Development<br>- 📫 How to reach me: raiakshay574@gmail.com<br>- 😄 Pronouns: He/Him</p>
+<br clear="both">
 
-###
+<p align="left">- 🔭 I'm currently learning Full stack <br>- ⚡ In my free time I spend time with my friends and talk to my family<br>- 👯 I’m looking to collaborate on Web Development<br>- 😄 Pronouns: He/Him<br>- 📫 How to reach me: raiakshay574@gmail.com</p>
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/akshayrai574/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -29,8 +25,13 @@
 </div>
 
 ###
+<br clear="both">
 
-<h3 align="left">👨‍💻 Language & Framework</h3>
+<h3 align="center"> 🎯 Skill Set</h3>
+
+###
+
+<h4 align="left">👨‍💻 Language & Framework</h4>
 
 ###
 
@@ -50,7 +51,7 @@
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<h4 align="left">🛠 Tools</h4>
 
 ###
 
@@ -64,12 +65,50 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AkshayRai7771&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayrai7771&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayrai7771&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=akshayrai7771&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+###
+
+![](https://github-profile-trophy.vercel.app/?username=akshayrai7771&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+
+###
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+
+###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/akshayrai7771/akshayrai7771/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+<div align="center">
+
+  ###
+
+  ---
+  [![](https://visitcount.itsvg.in/api?id=akshayrai7771&icon=5&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 ###
