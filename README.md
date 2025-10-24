@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">🧑‍💻  I'm Akshay Rai, a dedicated Software Engineer or Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends and as a website developer, always striving to exceed client expectations.</h4>
+<h4 align="center">🧑‍💻  I'm Akshay Rai, a dedicated Python Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of honing my skills in python and emerging tech trends and as a python developer, always striving to exceed client expectations.</h4>
 
 ###
 
