@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I'm currently learning Full stack <br>- ⚡ In my free time I spend time with my friends and talk to my family<br>- 👯 I’m looking to collaborate on Web Development<br>- 😄 Pronouns: He/Him<br>- 📫 How to reach me: raiakshay574@gmail.com</p>
+<p align="left">- 🔭 I am currently working on individual projects using Python,HTML,CSS,Bootstrap <br>- ⚡ In my free time I spend time to think how i can make my code more efficient and effective <br>- 👯 I’m looking to collaborate on Web Development | Python Development <br>- 😄 Pronouns: He/Him<br>- 📫 How to reach me: raiakshay574@gmail.com</p>
 
 <br clear="both">
 
@@ -18,9 +18,6 @@
   </a>
   <a href="mailto:raiakshay574@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/ac_shay?igsh=MTR5YWhoam83Y28ybA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
@@ -39,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
